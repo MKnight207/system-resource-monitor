@@ -1,0 +1,8 @@
+{
+  "cpu_threshold_percent": 80.0,
+  "memory_threshold_percent": 85.0,
+  "disk_threshold_percent": 90.0,
+  "log_file_path": "",
+  "log_keywords": ["ERROR", "CRITICAL", "FAILED"],
+  "webhook_url": ""
+}
